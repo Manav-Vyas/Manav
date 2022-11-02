@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Manav</h1>
 <h3 align="center">A passionate full stack java developer from India</h3><br>
 
-<p align="center"><img align="center" alt="coding" width="500" src="https://github.com/axxy4/axxy4/blob/main/Nakum1.gif"></p><br><br>
+<p align="center"><img align="center" alt="coding" width="500" src="https://github.com/manav/manav/blob/main/manav1.gif"></p><br><br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axxy4" alt="axxy4" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manav" alt="Manav" /></a> </p>
 
 
 
@@ -15,14 +15,14 @@
 
 - 👯 I’m looking to collaborate on **E-Commerce website, GUI Application, Security Apps**
 
-- 👨‍💻 All of my projects are available at [axxy4](axxy4)
+- 👨‍💻 All of my projects are available at [Manav](Manav)
 
-- 📫 How to reach me **nakumakshay7426@gmail.com**
+- 📫 How to reach me **manav3nov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshay nakum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay nakum" height="30" width="40" /></a>
-<a href="https://instagram.com/a.xxy4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.xxy4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manav vyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manav vyas" height="30" width="40" /></a>
+<a href="https://instagram.com/a.Manav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.xxy4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,11 +31,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/O..!!! Hello "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="O..!!! Hello " /></a></p><br><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=axxy4&show_icons=true&locale=en&layout=compact" alt="axxy4" /></p><br><br><br><br><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manav&show_icons=true&locale=en&layout=compact" alt="Manav" /></p><br><br><br><br><br>
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=axxy4&show_icons=true&locale=en" alt="axxy4" /></p><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Manav&show_icons=true&locale=en" alt="Manav" /></p><br><br><br><br><br><br><br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=axxy4&" alt="axxy4" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Manav&" alt="Manav" /></p>
 

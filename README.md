@@ -31,7 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/O..!!! Hello "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="O..!!! Hello " /></a></p><br><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manav&show_icons=true&locale=en&layout=compact" alt="Manav vyas" /></p><br><br><br><br><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manav&show_icons=true&locale=en&layout=compact" alt="Manav" /></p><br><br><br><br><br>
 
 
 
